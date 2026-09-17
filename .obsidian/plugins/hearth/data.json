@@ -1,0 +1,258 @@
+{
+  "title": "MegaThread",
+  "showTitle": true,
+  "logo": "",
+  "themeColorTarget": "both",
+  "searchPlaceholder": "Search or command",
+  "showNewNoteButton": true,
+  "newNoteButtonMode": "newNote",
+  "searchContents": true,
+  "searchEngine": "builtin",
+  "backgroundKind": "image",
+  "backgroundValue": "99.metadata/data/images/Abstract-17.png",
+  "backgroundOpacity": 1,
+  "backgroundBlur": 7,
+  "openOnStartup": true,
+  "replaceNewTabs": true,
+  "mobileSearchOnly": false,
+  "showMobileActionBar": true,
+  "mobileActionButtons": [
+    {
+      "id": "action-new-note",
+      "label": "New note",
+      "icon": "plus",
+      "type": "command",
+      "target": "hearth:new-note"
+    },
+    {
+      "id": "action-new-drawing",
+      "label": "New drawing",
+      "icon": "pen-tool",
+      "type": "command",
+      "target": "hearth:new-drawing"
+    },
+    {
+      "id": "action-record-voice",
+      "label": "Record voice",
+      "icon": "mic",
+      "type": "command",
+      "target": "hearth:record-voice"
+    },
+    {
+      "id": "action-daily-note",
+      "label": "Daily note",
+      "icon": "calendar",
+      "type": "command",
+      "target": "hearth:open-daily-note"
+    }
+  ],
+  "disableExternalCalls": false,
+  "compact": false,
+  "arrangeButtonVisibility": "always",
+  "dashboardSwitcherVisibility": "always",
+  "cardOpacity": 0.5,
+  "cardBlur": 7,
+  "cardRadius": 14,
+  "cardBorderWidth": 1,
+  "hiddenFilters": [],
+  "dashboards": [
+    {
+      "id": "dash-ms3cyyt6-6239",
+      "name": "Dashboard 1",
+      "cards": [
+        {
+          "id": "card-clock",
+          "kind": "clock",
+          "title": "",
+          "x": 0,
+          "y": 0,
+          "w": 12,
+          "h": 3,
+          "fx": 0,
+          "fw": 0.2847124824684432,
+          "fy": 0,
+          "fh": 145
+        },
+        {
+          "id": "card-daily",
+          "kind": "recent",
+          "title": "Today",
+          "x": 0,
+          "y": 3,
+          "w": 7,
+          "h": 6,
+          "fx": 0.6299416720674011,
+          "fw": 0.37005832793259885,
+          "fy": 0,
+          "fh": 659,
+          "url": "https://c.tenor.com/mLqBHyQqEdQAAAAC/tenor.gif",
+          "sandboxTrusted": true,
+          "rss": {
+            "sources": []
+          },
+          "leafView": {},
+          "jira": {},
+          "tasks": {
+            "folderScope": "blacklist",
+            "folders": [
+              "004.ROLES"
+            ]
+          }
+        },
+        {
+          "id": "card-calendar",
+          "kind": "calendar",
+          "title": "Calendar",
+          "x": 7,
+          "y": 3,
+          "w": 5,
+          "h": 6,
+          "fx": 0,
+          "fw": 0.2845744680851064,
+          "fy": 159,
+          "fh": 353
+        },
+        {
+          "id": "card-recent",
+          "kind": "links",
+          "title": "Links",
+          "x": 0,
+          "y": 9,
+          "w": 7,
+          "h": 4,
+          "count": 8,
+          "fx": 0.2942320155541154,
+          "fw": 0.32534024627349317,
+          "fy": 0,
+          "fh": 199,
+          "links": [
+            {
+              "id": "link-ms3upfqy",
+              "label": "Studies Index",
+              "icon": "book",
+              "target": "001.Studies/Index.base",
+              "type": "note"
+            }
+          ]
+        },
+        {
+          "id": "card-stats",
+          "kind": "stats",
+          "title": "Vault",
+          "x": 7,
+          "y": 9,
+          "w": 5,
+          "h": 4,
+          "fx": 0.2942320155541154,
+          "fw": 0.32534024627349317,
+          "fy": 203,
+          "fh": 133
+        },
+        {
+          "id": "card-msg0iibl-3108",
+          "x": 0,
+          "y": 2,
+          "kind": "calculator",
+          "title": "Calculator",
+          "calculator": {
+            "lastInput": ""
+          },
+          "w": 4,
+          "h": 3,
+          "fx": 0.2942320155541154,
+          "fy": 351,
+          "fw": 0.32663642255346725,
+          "fh": 308
+        },
+        {
+          "id": "card-msg0jf0j-7519",
+          "x": 0,
+          "y": 2,
+          "kind": "tasks",
+          "title": "Tasks",
+          "tasks": {},
+          "w": 4,
+          "h": 4,
+          "fx": 0,
+          "fy": 528,
+          "fw": 0.2838626053143227,
+          "fh": 131
+        }
+      ]
+    },
+    {
+      "id": "dash-ms3rlo6y-9842",
+      "name": "Dashboard 2",
+      "cards": [
+        {
+          "id": "card-ms3rluxk-8262",
+          "x": 0,
+          "y": 0,
+          "kind": "stats",
+          "title": "Stats",
+          "w": 4,
+          "h": 2,
+          "fx": 0,
+          "fy": 0,
+          "fw": 0.3266666666666667,
+          "fh": 200
+        },
+        {
+          "id": "card-ms3rlxvn-9471",
+          "x": 0,
+          "y": 0,
+          "kind": "heatmap",
+          "title": "Activity",
+          "heatmap": {
+            "metric": "modified"
+          },
+          "w": 6,
+          "h": 3,
+          "fx": 0,
+          "fy": 216,
+          "fw": 1,
+          "fh": 516
+        },
+        {
+          "id": "card-ms3rmj04-9197",
+          "x": 0,
+          "y": 3,
+          "kind": "favorites",
+          "title": "Favorites",
+          "w": 4,
+          "h": 3,
+          "fx": 0.33625,
+          "fy": 0,
+          "fw": 0.326875,
+          "fh": 200
+        },
+        {
+          "id": "card-ms3rnmnq-7614",
+          "x": 0,
+          "y": 5,
+          "kind": "links",
+          "title": "Links",
+          "links": [],
+          "w": 6,
+          "h": 2,
+          "fx": 0.673125,
+          "fy": 0,
+          "fw": 0.326875,
+          "fh": 200
+        }
+      ]
+    }
+  ],
+  "activeDashboardId": "dash-ms3cyyt6-6239",
+  "pinnedCards": [],
+  "gridColumns": 12,
+  "rowHeight": 92,
+  "favorites": [],
+  "fitToPage": true,
+  "taskNotesStatusField": "status",
+  "taskNotesDueField": "due",
+  "taskNotesPriorityField": "priority",
+  "taskNotesDoneValue": "done",
+  "maxWidth": 1600,
+  "lastSeenVersion": "1.16.0"
+}

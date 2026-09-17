@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "6d85f5c953b4e143",
+    "type": "split",
+    "children": [
+      {
+        "id": "e392f272b4e2ae8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95b3f03c7dcaad78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02.Areas/Programacion/DAM/PROG/UD1 - Introduccion a Java.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UD1 - Introduccion a Java"
+            }
+          },
+          {
+            "id": "0872939d3b2d6262",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02.Areas/Programacion/DAM/ENTR/RA1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RA1"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e50effd7542c6d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "21466b983b07804a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb092b96933b66d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6b5c380740b9e1b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c796b06f1a4f6129",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9f5eb9aa37af9f0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcd3d61c57b7d168",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "236d9b22a524a1da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "81d78a9c67af0cb4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "25fc632898929902",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "18b87d8e918a875e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "997bfc8f32a55265",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "99.metadata/templates/daily_notes/template.daily_notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "55c6fa5a491f13c1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "bases:Create new base": false,
+      "daily-notes:Open today's daily note": false,
+      "hearth:Open Hearth home": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "0872939d3b2d6262",
+  "lastOpenFiles": [
+    "02.Areas/Programacion/DAM/PROG/UD1 - Introduccion a Java.md",
+    "03.Resources/2026-08-05 Notebook Themes css.md",
+    "04.Permanent/Java/RP Profiles - Fabric/main.Description.md",
+    "03.Resources/2026-08-05 SCP SL server setup.md",
+    "02.Areas/Programacion/DAM/BADA/RA1.md",
+    "02.Areas/Programacion/DAM/ENTR/RA1.md",
+    "02.Areas/Programacion/DAM/SISINF/RA1 - Bases de Sistemas Informaticos.md",
+    "02.Areas/Programacion/DAM/ENTR",
+    "02.Areas/Programacion/DAM/LM/RA1.md",
+    "02.Areas/Programacion/DAM/LM",
+    "02.Areas/Roleplay/UNLIMITED/Unlimited Ways/Principal/𝚄𝚗𝚕𝚒𝚖𝚒𝚝𝚎𝚍 𝚆𝚊𝚢𝚜ᴿᴾ.md",
+    "02.Areas/Roleplay/UNLIMITED/Unlimited Dashboard.base",
+    "02.Areas/Roleplay/UNLIMITED/Personajes/Index Personajes.base",
+    "02.Areas/Literacy Tracks/To-Watch Series.md",
+    "02.Areas/Literacy Tracks/Vistas.base",
+    "02.Areas/Programing/DAM/PROG/JavaScript.md",
+    "Untitled.md",
+    "02.Areas/Programacion/DAM/SISINF",
+    "04.Permanent/Untitled",
+    "05.Fleeting/Presentacion SIS.md",
+    "02.Areas/Roleplay/UNLIMITED/Personajes/Prefixes.md",
+    "04.Permanent/Java/RP Profiles - Fabric",
+    "04.Permanent/Java",
+    "02.Areas/Drawing/00 - Year 1 Schedule.md",
+    "02.Areas/Drawing/01 - Session Logs/2026-08-11.md",
+    "99.metadata/templates/drawing_logs/template.daily_art_notes.md",
+    "02.Areas/Drawing/01 - Session Logs/2026-08-10.md",
+    "02.Areas/Drawing/02 - Study Notes/50% Rule.md",
+    "06.Daily/Journal.md",
+    "99.metadata/templates/drawing_logs/template.weekly_art_review.md",
+    "02.Areas/Drawing/Temp.md",
+    "99.metadata/templates/drawing_logs",
+    "README.md",
+    "02.Areas/Programacion/DAM/Index DAM.md",
+    "99.metadata/templates/daily_notes/template.daily_notes.md",
+    "01.Proyects/Leon/Leon - Main.md",
+    "Untitled.canvas",
+    "99.metadata/data/images/Abstract-17.png",
+    "02.Areas/Roleplay/UNLIMITED/Unlimited Ways/Principal/image_1.png",
+    "02.Areas/Roleplay/UNLIMITED/Unlimited Ways/Principal/image_34.png",
+    "02.Areas/Roleplay/UNLIMITED/Unlimited Ways/Principal/image_59.png",
+    "02.Areas/Roleplay/UNLIMITED/Unlimited Ways/Principal/image_84.png",
+    "02.Areas/Roleplay/UNLIMITED/Unlimited Ways/Principal/image_109.png",
+    "02.Areas/Roleplay/UNLIMITED/Unlimited Ways/Principal/image_134.png",
+    "02.Areas/Roleplay/UNLIMITED/Unlimited Ways/Principal/image_169.png",
+    "02.Areas/Roleplay/UNLIMITED/Unlimited Ways/Principal/image_184.png",
+    "02.Areas/Roleplay/UNLIMITED/Unlimited Ways/Principal/image_204.png"
+  ]
+}

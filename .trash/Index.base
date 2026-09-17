@@ -1,0 +1,9 @@
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.hasTag("hogar_estudios")
+    cardSize: 590
+    image: note.image
+    imageAspectRatio: 0.65

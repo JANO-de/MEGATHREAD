@@ -1,0 +1,8 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.hasTag("trello")
+    cardSize: 290
+    image: note.image

@@ -1,0 +1,8 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.hasTag("Personaje-Unlimited")
+    cardSize: 330
+    image: note.image
