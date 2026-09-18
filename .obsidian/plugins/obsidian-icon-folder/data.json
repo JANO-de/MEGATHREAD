@@ -34,8 +34,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "00.Homes": "LiGlobe2",
-  "01.Proyects": "LiPresentation",
   "02.Areas": "LiPenTool",
   "03.Resources": "LiScrollText",
   "04.Permanent": "LiBox",
