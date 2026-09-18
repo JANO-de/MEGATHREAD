@@ -33,5 +33,3 @@ Clases: Ejercicio1, Ejercicio2, Ejercicio3, Ejercicio4, Ejercicio5, Ejercicio6
 
 ---
 ## 2 - 
-
-z
