@@ -32,4 +32,4 @@ Clases: Ejercicio1, Ejercicio2, Ejercicio3, Ejercicio4, Ejercicio5, Ejercicio6
 **JDK**: Java Development Kit, requerido para programar en java, contiene el JRE y el compilador para poder ejecutar el codigo programado en JAVA. 
 
 ---
-## 2 - 
+## 2 - a

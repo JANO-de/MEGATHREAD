@@ -1,6 +1,0 @@
-views:
-  - type: cards
-    name: Tabla
-    filters:
-      and:
-        - file.inFolder("000.configs/data/003-Series/data.series.vistas")
