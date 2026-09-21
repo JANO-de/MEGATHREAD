@@ -35,3 +35,14 @@ Clases: Ejercicio1, Ejercicio2, Ejercicio3, Ejercicio4, Ejercicio5, Ejercicio6
 ## EJ 0
 
 Crear un proyecto con 2 clases, una escrita en el paquete default y otra en un paquete propio. En ambos que sean ejecutables y con system outs que queramos.
+
+---
+---
+# Clase 1 2026-09-21
+## Variables
+Son contenedores que sirven para almacenar los datos que utiliza un programa dentro de la memoria RAM.
+- Se escriben en minuscula.
+- Si son varias palabras se hace lowerCamelCase. (myVariableInJava)
+- Pueden contener caracteres de "_" o "$" pero nunca empezar por ellos.
+- Pueden contener numeros pero nunca como primer caracter.
+- Deben ser cortos pero significativos.
