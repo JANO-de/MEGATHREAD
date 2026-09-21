@@ -83,3 +83,19 @@ Se pueden declarar varias variables a la vez del mismo tipo.
 | long                 | 8                   | -9·10^38 a 9·10^38             |
 | float                | 4                   | -3.4·10^38 a 3.4·10^38         |
 | double               | 8                   | -1.79·10^308 a 1.79·10^308     |
+#### Casting
+Operacion para convertir valores de un tipo a otro.
+```Java
+int i=12;
+byte b=(byte) i;
+```
+
+#### Secuencia de escape
+Conjunto de caracteres que en el codigo se interpreta con algun fin. Por ejemplo `\` es un caracter de escape que hace que el caracter puesto a continuacion se convierta en un caracter especial.
+
+| ==Caracter== | ==Significado==                                                                |
+| ------------ | ------------------------------------------------------------------------------ |
+| \t           | Tabulador                                                                      |
+| \n           | Salto de linea                                                                 |
+| \\\          | Barra invertida                                                                |
+| \udddd       | Representa el caracter unicode cuyo codigo es representado por el dddd en hex. |
