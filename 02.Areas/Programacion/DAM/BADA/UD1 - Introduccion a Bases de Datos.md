@@ -1,3 +1,7 @@
+---
+cssclasses:
+  - page-white
+---
 #bbdd #DAM #1año #ra1
 Codigo classroom: 
 ### 7fngrrcl
@@ -76,3 +80,27 @@ El problema principal es que el formato de fecha es distinto para cada pedido, c
 Fila 20:2026-09-20
 Fila 19: 19-09-2026
 Fila 17: 17/09/2026
+
+---
+---
+*
+*
+*
+# Relaciones
+
+- Relacion 1:1: Un registro que se asocia con un unico registro de otra tabla. EJ: Alumno <-> Expediente academico
+- Relacion 1:N: Un registro asociado a varios registros de otra tabla. EJ: Alumno <-> Muchas notas
+- Relacion N:M: Varios registros a varios registros de otra tabla. EJ: Alumnos <-> Asignaturas. (Implementado mediante una tabla intermedia.)
+
+## Buenas practicas
+
+| Nombres de tablas | Usar nombres en plural. 
+| Nombres | No usar espacios, acentos ni iniciales.
+| Nombres de campos | Usar nombres en singular, claros y consistentes
+| Nombres de tablas | Empiezan en mayusculas.
+| Normalizacion de los nombres | Usar siempre la misma.
+
+---
+---
+
+#

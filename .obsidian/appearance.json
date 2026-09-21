@@ -5,9 +5,9 @@
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
   "enabledCssSnippets": [
     "Colored Sidebar Items",
-    "Notebook Backgrounds",
     "CyanVoxel's General Tweaks",
-    "Japanese Font Support"
+    "Japanese Font Support",
+    "Notebook Backgrounds"
   ],
   "theme": "obsidian"
 }
