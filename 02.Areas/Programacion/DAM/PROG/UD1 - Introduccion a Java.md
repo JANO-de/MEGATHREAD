@@ -93,9 +93,9 @@ byte b=(byte) i;
 #### Secuencia de escape
 Conjunto de caracteres que en el codigo se interpreta con algun fin. Por ejemplo `\` es un caracter de escape que hace que el caracter puesto a continuacion se convierta en un caracter especial.
 
-| ==Caracter== | ==Significado==                                                                |
-| ------------ | ------------------------------------------------------------------------------ |
-| \t           | Tabulador                                                                      |
-| \n           | Salto de linea                                                                 |
-| \\\          | Barra invertida                                                                |
-| \udddd       | Representa el caracter unicode cuyo codigo es representado por el dddd en hex. |
+| ==Caracter== | ==Significado==                                                                 |
+| ------------ | ------------------------------------------------------------------------------- |
+| \t           | Tabulador                                                                       |
+| \n           | Salto de linea                                                                  |
+| \\\          | Barra invertida                                                                 |
+| \udddd       | DRepresenta el caracter unicode cuyo codigo es representado por el dddd en hex. |
