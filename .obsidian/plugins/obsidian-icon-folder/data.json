@@ -35,11 +35,8 @@
     "useInternalPlugins": false
   },
   "02.Areas": "LiPenTool",
-  "03.Resources": "LiScrollText",
   "04.Permanent": "LiBox",
-  "05.Fleeting": "LiPencil",
   "07.Archives": "LiArchive",
   "99.metadata": "LiAmpersand",
-  "06.Daily": "LiCalendar1",
   "04.Permanent/Drawing/00 - Year 1 Schedule.md": "LiCalendarDays"
 }
