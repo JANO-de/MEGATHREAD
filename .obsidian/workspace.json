@@ -11,10 +11,14 @@
             "id": "d221181e6388a347",
             "type": "leaf",
             "state": {
-              "type": "hearth-home-view",
-              "state": {},
-              "icon": "hearth-crystal-themed",
-              "title": "Home"
+              "type": "markdown",
+              "state": {
+                "file": "02.Areas/Programacion/DAM/PROG/UD1 - Introduccion a Java.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UD1 - Introduccion a Java"
             }
           }
         ]
@@ -206,10 +210,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "55c6fa5a491f13c1",
+  "active": "d221181e6388a347",
   "lastOpenFiles": [
-    "02.Areas/Programacion/DAM/PROG/UD1 - Introduccion a Java.md",
     "02.Areas/Programacion/DAM/BADA/UD1 - Introduccion a Bases de Datos.md",
+    "02.Areas/Programacion/DAM/PROG/UD1 - Introduccion a Java.md",
     "02.Areas/Programacion/DAM/ENTR/UD1 - Introducción al Desarrollo de Software.md",
     "02.Areas/Programacion/DAM/SISINF/UD1 - Bases de Sistemas Informaticos.md",
     "02.Areas/Programacion/DAM/LM/UD1 -.md",

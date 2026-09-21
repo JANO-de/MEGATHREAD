@@ -1,3 +1,7 @@
+---
+cssclasses:
+  - page-white
+---
 ## Reglas de nomenclatura en los ejercicios
 
 - Crear un proyecto por cada tema con el mismo nombre que el tema.
@@ -46,3 +50,36 @@ Son contenedores que sirven para almacenar los datos que utiliza un programa den
 - Pueden contener caracteres de "_" o "$" pero nunca empezar por ellos.
 - Pueden contener numeros pero nunca como primer caracter.
 - Deben ser cortos pero significativos.
+#### Declaracion de Variables
+```Java
+int days;
+float cash;
+boolean typeMoney;
+```
+Java es fuertemente tipado. Por convencion de codigo las variables se ponen al principio.
+#### Inicializacion de Variables
+```Java
+int x=12;
+float y:
+·
+·
+·
+y=12.3;
+```
+Se usa el operador de asignacion "=" para darle un valor a las variables.
+```Java
+int days, weeks, years;
+```
+Se pueden declarar varias variables a la vez del mismo tipo.
+
+### Tipos de Dato Primitivo
+| ==Tipo de Variable== | ==Bytes que ocupa== | ==Rango de valores==           |
+| -------------------- | ------------------- | ------------------------------ |
+| boolean              | 1                   | true, false                    |
+| char                 | 2                   | Caracteres Unicode             |
+| byte                 | 1                   | -128 a 127                     |
+| short                | 2                   | -32.768 a 32.767               |
+| int                  | 4                   | -2.147.483.648 a 2.147.483.647 |
+| long                 | 8                   | -9·10^38 a 9·10^38             |
+| float                | 4                   | -3.4·10^38 a 3.4·10^38         |
+| double               | 8                   | -1.79·10^308 a 1.79·10^308     |
