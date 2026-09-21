@@ -1,6 +1,0 @@
-views:
-  - type: cards
-    name: View
-    filters:
-      and:
-        - file.inFolder("001.Estudios/DAM/Datos/01.asignaturas")

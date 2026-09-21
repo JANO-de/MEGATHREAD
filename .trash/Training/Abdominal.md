@@ -1,5 +1,0 @@
-- [ ] Plancha - 1 min x 3
-- [ ] Giro ruso - 8 x 3
-- [ ] Escalada - 10 x 2
-- [ ] Abdominales - 10 x 3
-- [ ] Sentadillas 
