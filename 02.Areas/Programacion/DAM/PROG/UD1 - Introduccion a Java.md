@@ -99,3 +99,26 @@ Conjunto de caracteres que en el codigo se interpreta con algun fin. Por ejemplo
 | \n           | Salto de linea                                                                  |
 | \\\          | Barra invertida                                                                 |
 | \udddd       | DRepresenta el caracter unicode cuyo codigo es representado por el dddd en hex. |
+
+---
+---
+# Clase 2 2026-09-22
+
+## Caracteres
+Variables tipo char pueden ser llamados en codigo unicode ( Hex, Decimal), en texto plano "C". Estan tambien los caracteres especiales, caracteres que al ser colocados tras un `\` reciben una funcion, por ejemplo `\n` imprime una nueva linea, `\'` Imprime comillas simples, `\"` Imprime comillas dobles, `"` Doble comillas se pueden usar como caracter, `\\` Imprime una barra invertida, `System.out.println("character"); ... character = 9752` Imprime el simbolo de un trevol.
+## Strings
+Son cadenas de caracteres usados para imprimir palabras, frases, etc.. 
+```java
+String s1 = "Línea 1\nLínea 2\nLínea 3";
+
+String s2 = """
+
+            Línea 1
+
+            Línea 2
+
+            Línea 3
+
+            """;
+```
+
