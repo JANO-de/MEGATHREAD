@@ -37,3 +37,7 @@ El Buscón, en cambio,
 	```
 - Marcado referencial -> Marcas que refieren a etidades externas y que durante el procesamiento deben ser reemplazadas por estas. 
 - Metamarcado -> Marcado que permite la interpretacion del propio marcado o ampliar el vocabulario de marcas.
+---
+---
+# Clase 2 - 2026-09-23
+## 
