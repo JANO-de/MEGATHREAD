@@ -1,10 +1,7 @@
 ---
 cssclasses:
-  - page-white
 ---
 #bbdd #DAM #1año #ra1
-Codigo classroom: 
-### 7fngrrcl
 ## Cuestionario
 
 1. Si dos usuarios abren al mismo tiempo un archvo de excel llamado inventario.xlsx guardado en un pendrive compartido y ambos modifican la cantidad del mismo producto a la vez que crees que ocurrira con los datos cuando ambos guarden el archivo?
@@ -94,13 +91,68 @@ Fila 17: 17/09/2026
 
 ## Buenas practicas
 
-| Nombres de tablas | Usar nombres en plural. 
-| Nombres | No usar espacios, acentos ni iniciales.
-| Nombres de campos | Usar nombres en singular, claros y consistentes
-| Nombres de tablas | Empiezan en mayusculas.
-| Normalizacion de los nombres | Usar siempre la misma.
+| Nombres de tablas            | Usar nombres en plural.                         |
+| ---------------------------- | ----------------------------------------------- |
+| Nombres                      | No usar espacios, acentos ni iniciales.         |
+| Nombres de campos            | Usar nombres en singular, claros y consistentes |
+| Nombres de tablas            | Empiezan en mayusculas.                         |
+| Normalizacion de los nombres | Usar siempre la misma.                          |
 
 ---
 ---
 
-#
+# Clase 2 - 2026-09-23
+## Funciones principales de las bases de datos
+1. Almacenamiento y recuperacion de datos
+	- 
+2. Integridad de datos
+	- 
+3. Seguridad
+	- 
+4. Concurrencia
+	- 
+5. Transacciones
+	- 
+6. Recuperacion de fallos
+    - 
+7. Independencia de datos
+	- 
+
+·
+·
+·
+
+### Esquema ANSI
+
+·
+·
+·
+##### Nivel interno
+Nivel mas bajo, es como se almacena la informacion dentro del ordenador.
+##### Ventajas
+- Independencia logica: realizar cambios a nivel conceptual
+- Independencia fisica:
+
+--- 
+## Bases de datos centralizadas
+- Todos los datos se guardan en un unico servidor al que los usuarios se conectan mediante apps de cliente o navegadores.
+##### Ventajas
+- Administracion sencilla con copias de seguridad centralizada.
+##### Inconvenientes
+- Si se cae el servidor, cuelga a todos los clientes.
+
+--- 
+## Bases de datos distribuidas
+Los datos se encuentran en distintos servidores conectados entre si, cada servidor mantiene o parte o copia completa del dato y ante el usuario parece que todo este en un unico servidor. 
+#### Principio de la distribucion
+
+##### Ventajas
+##### Inconvenientes
+
+### Tecnicas en bases distribuidas
+#### Fragmentacion
+
+#### Replicacion
+
+ 
+---
