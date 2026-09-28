@@ -106,6 +106,8 @@ Conjunto de caracteres que en el codigo se interpreta con algun fin. Por ejemplo
 
 ## Caracteres
 Variables tipo char pueden ser llamados en codigo unicode ( Hex, Decimal), en texto plano "C". Estan tambien los caracteres especiales, caracteres que al ser colocados tras un `\` reciben una funcion, por ejemplo `\n` imprime una nueva linea, `\'` Imprime comillas simples, `\"` Imprime comillas dobles, `"` Doble comillas se pueden usar como caracter, `\\` Imprime una barra invertida, `System.out.println("character"); ... character = 9752` Imprime el simbolo de un trevol.
+
+---
 ## Strings
 Son cadenas de caracteres usados para imprimir palabras, frases, etc.. 
 ```java
@@ -120,5 +122,64 @@ String s2 = """
             Línea 3
 
             """;
+// Ejemplo de cadena vacia:
+String s3 = "";
 ```
 
+---
+## Operadores
+
+Los operadores llevan a cabo operaciones sobre datos u operandos primitivos devolviendo un valor default primitivo. Si es solo uno es un **Operador Unario**, dos **Operador Binario** y tres **Operador Ternario**.
+
+### Prioridad de Operadores
+
+## Ejercicios 1.1 Expresiones
+
+> [!NOTE] Ejercicio 1
+> Calcula el resultado de las siguientes expresiones:
+> 1. 3 * 5 – 4 / 2
+> 2. 7 – 4 * 2 – 5 * 2
+> 3. 5 + 4 < 7 + 8
+> 4. 4 < 5 * 4 / 2 – 7
+> 5. ! (4 > 6)
+
+> [!NOTE] Ejercicio 2
+> Dados los siguientes valores para las variables booleanas a, b y c ( a = true, b = false y c = true), evaluar las expresiones que aparecen a continuación:
+> 6. a && b || a && c
+> 7. (a || ! b) && (! a || c)
+> 8. a || b && c
+> 9. ! (a || b) && c
+
+> [!NOTE] Ejercicio 3
+> Las siguientes asignaciones dan error. Soluciónalas con un casting o con una letra (en el caso de los literales):
+> 10. int x = 165698L;
+> 11. short s=56; byte b=s;
+> 12. byte b = 129;
+> 13. float f = 5.89;
+> 14. long l = 8.42;
+> 15. char c1='a',c2; c2 = c1 + 7;
+> 16. byte b; short s=7; boolean a=true; b = a ? s++:--s;
+
+> [!NOTE] Ejercicio 4
+> De las siguientes asignaciones ¿cuáles son válidas? ¿Cuál es el defecto de su ejecución? ¿De qué tipo deben ser las variables?:
+>
+> 1. z = 2 < 1
+> 2. a = a + 1
+> 3. ‘x’ = ‘y’
+> 4. x = ‘y’
+> 5. a = b
+> 6. precio = precio – precio*(30/100)
+> 7. a = a<b?5+1:7-3*2
+> 8. a = b / 0
+> 9. i=++j
+> 10. i=j++
+> 11. c='''
+> 12. c='”'
+> 13. c='c'
+> 14. s=”'”
+> 15. s=”””
+> 16. c='\u0041'
+> 17. c=65
+> 18. x = (a>b?5.4*3:65.1/8)
+> 19. a == a>b?3+6:9-4
+> 20. d = !a?c++:--c
