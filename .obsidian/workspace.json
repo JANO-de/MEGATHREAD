@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "548963c24778f313",
+        "id": "e4e4a3a4b39070e2",
         "type": "tabs",
         "children": [
           {
-            "id": "857853542ae4eedb",
+            "id": "49377a09adba5730",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Areas/Programacion/DAM/BADA/UD2 - Modelos de Bases de Datos.md",
+                "file": "02.Areas/Programacion/DAM/PROG/B1 - Programacion/UD1 - Introduccion a Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UD2 - Modelos de Bases de Datos"
-            }
-          },
-          {
-            "id": "771977f293686c02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02.Areas/Programacion/DAM/LM/UD1 - Introduccion a XML y Lenguaje de Marcas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UD1 - Introduccion a XML y Lenguaje de Marcas"
+              "title": "UD1 - Introduccion a Java"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +42,7 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": true,
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
@@ -98,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 305.01683807373047
   },
   "right": {
     "id": "9f5eb9aa37af9f0c",
@@ -124,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02.Areas/Programacion/DAM/PROG/B1 - Programacion/UD1 - Introduccion a Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99.metadata/templates/daily_notes/template.daily_notes.md",
+                "file": "02.Areas/Programacion/DAM/PROG/B1 - Programacion/UD1 - Introduccion a Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -222,60 +208,59 @@
       "bases:Create new base": false,
       "daily-notes:Open today's daily note": false,
       "hearth:Open Hearth home": false,
-      "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
+      "insert-image-plus:Insert Image Plus: Insert image": false,
       "insert-image-plus:Insert Image Plus: Manage images": false,
-      "insert-image-plus:Insert Image Plus: Insert image": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "771977f293686c02",
+  "active": "55c6fa5a491f13c1",
   "lastOpenFiles": [
-    "02.Areas/Programacion/DAM/BADA/UD1 - Introduccion a Bases de Datos.md",
+    "02.Areas/Programacion/DAM/PROG/B1 - Programacion/UD2 - Entrada y salida estandar en Java.md",
+    "02.Areas/Programacion/DAM/PROG/B1 - Programacion/UD1 - Introduccion a Java.md",
     "02.Areas/Programacion/DAM/BADA/UD2 - Modelos de Bases de Datos.md",
-    "02.Areas/Programacion/DAM/PROG/UD1 - Introduccion a Java.md",
-    "02.Areas/Programacion/DAM/SISINF/UD1 - Bases de Sistemas Informaticos.md",
-    "02.Areas/Programacion/DAM/Index DAM.md",
+    "99.metadata/data/001/data.bada/Drawing 2026-09-28 08.29.45.excalidraw.md",
+    "99.metadata/data/001/data.bada/Pasted image 20260928082610.png",
+    "99.metadata/data/001/data.bada/Pasted image 20260928082729.png",
+    "99.metadata/data/001/data.bada",
+    "99.metadata/data/001/data.bada/Pasted image 20260928082644.png",
+    "99.metadata/data/001/data.bada/Pasted image 20260928082605.png",
+    "Excalidraw",
     "02.Areas/Programacion/DAM/ENTR/UD1 - Introducción al Desarrollo de Software.md",
+    "02.Areas/Programacion/DAM/DIGI/UD1.md",
+    "02.Areas/Programacion/DAM/DIGI",
+    "02.Areas/Programacion/DAM/Untitled",
     "02.Areas/Programacion/DAM/LM/UD1 - Introduccion a XML y Lenguaje de Marcas.md",
-    "03.Resources/2026-09-21 BBDD Theme Css.md",
-    "03.Resources/2026-08-05 Notebook Themes css.md",
-    "03.Resources/2026-08-05 SCP SL server setup.md",
-    "Untitled.md",
-    "04.Permanent/GameDev/Blender/Shortcuts.md",
-    "04.Permanent/GameDev/Blender/Modelos",
-    "04.Permanent/GameDev/Blender/BOOKMARKS.md",
-    "04.Permanent/GameDev/Idea.md",
-    "04.Permanent/GameDev/Blender",
-    "04.Permanent/GameDev",
-    "04.Permanent/GameDev 1/Blender/Shortcuts.md",
-    "04.Permanent/GameDev 1/Blender/Modelos",
-    "04.Permanent/GameDev 1/Blender/BOOKMARKS.md",
-    "04.Permanent/GameDev 1/Idea.md",
-    "04.Permanent/GameDev 1/Blender",
-    "04.Permanent/GameDev 1",
-    "01.Proyects/Leon/Leon - Main.md",
-    "04.Permanent/Java/RP Profiles - Fabric/main.Description.md",
-    "02.Areas/Programacion/DAM/ENTR",
-    "02.Areas/Programacion/DAM/LM",
+    "02.Areas/Programacion/DAM/SISINF/Actividades/Actividad 1 - Perifericos.md",
+    "99.metadata/Pasted image 20260925135153.png",
+    "99.metadata/Pasted image 20260925134931.png",
+    "99.metadata/Pasted image 20260925134852.png",
+    "99.metadata/Pasted image 20260925134701.png",
+    "99.metadata/Pasted image 20260925134548.png",
+    "99.metadata/Pasted image 20260925134431.png",
+    "02.Areas/Programacion/DAM/SISINF/Actividades",
+    "02.Areas/Programacion/DAM/SISINF/Actividades/Actividad 0.md",
+    "02.Areas/Programacion/DAM/SISINF/UD1 - Bases de Sistemas Informaticos.md",
+    "02.Areas/Programacion/DAM/PROG/B1 - Programacion/UD5 - Programacion Orientada a Objetos (POO).md",
+    "02.Areas/Programacion/DAM/PROG/B1 - Programacion/UD4 - Arrays.md",
+    "001.Studies/Index.base",
+    "001.Studies",
+    "02.Areas/Programacion/DAM/BADA/UD1.md",
+    "02.Areas/Programacion/DAM/PROG/dam.prog.index.md",
+    "02.Areas/Programacion/DAM/BADA/UD2.md",
+    "02.Areas/Programacion/DAM/BADA/UD1 - Introduccion a Bases de Datos.md",
+    "02.Areas/Programacion/DAM/BADA/Untitled.md",
+    "02.Areas/Programacion/DAM/PROG/B1 - Programacion/UD11 - Genericos.md",
+    "04.Permanent/Roleplay/UNLIMITED/Unlimited Ways/Principal/𝗙&𝗤.md",
     "04.Permanent/Roleplay/UNLIMITED/Unlimited Ways/Principal/𝚄𝚗𝚕𝚒𝚖𝚒𝚝𝚎𝚍 𝚆𝚊𝚢𝚜ᴿᴾ.md",
-    "04.Permanent/Roleplay/UNLIMITED/Unlimited Dashboard.base",
+    "02.Areas/Programacion/DAM/PROG/B3 - Acceso a Datos/UD1 - Ficheros.md",
+    "02.Areas/Programacion/DAM/PROG/B2 - Entornos de Desarrollo/UD8 - Javadoc.md",
+    "02.Areas/Programacion/DAM/PROG/B2 - Entornos de Desarrollo/UD7 - Diagrama de Casos de Uso.md",
+    "02.Areas/Programacion/DAM/PROG/B2 - Entornos de Desarrollo/UD6 - Patrones de Diseño.md",
+    "02.Areas/Programacion/DAM/PROG/B2 - Entornos de Desarrollo/UD5 - Diagrama de Clases.md",
     "04.Permanent/Roleplay/UNLIMITED/Personajes/Index Personajes.base",
-    "02.Areas/Literacy Tracks/To-Watch Series.md",
-    "02.Areas/Programing/DAM/PROG/JavaScript.md",
-    "05.Fleeting/Presentacion SIS.md",
-    "04.Permanent/Roleplay/UNLIMITED/Personajes/Prefixes.md",
-    "04.Permanent/Drawing/00 - Year 1 Schedule.md",
-    "04.Permanent/Drawing/01 - Session Logs/2026-08-11.md",
-    "Untitled.canvas",
-    "99.metadata/data/images/Abstract-17.png",
-    "04.Permanent/Roleplay/UNLIMITED/Unlimited Ways/Principal/image_1.png",
-    "04.Permanent/Roleplay/UNLIMITED/Unlimited Ways/Principal/image_34.png",
-    "04.Permanent/Roleplay/UNLIMITED/Unlimited Ways/Principal/image_59.png",
-    "04.Permanent/Roleplay/UNLIMITED/Unlimited Ways/Principal/image_84.png",
-    "04.Permanent/Roleplay/UNLIMITED/Unlimited Ways/Principal/image_109.png",
-    "04.Permanent/Roleplay/UNLIMITED/Unlimited Ways/Principal/image_134.png",
-    "04.Permanent/Roleplay/UNLIMITED/Unlimited Ways/Principal/image_169.png",
-    "04.Permanent/Roleplay/UNLIMITED/Unlimited Ways/Principal/image_184.png",
-    "04.Permanent/Roleplay/UNLIMITED/Unlimited Ways/Principal/image_204.png"
+    "02.Areas/Programacion/DAM/PROG/B3 - Acceso a Datos",
+    "02.Areas/Programacion/DAM/PROG/B2 - Entornos de Desarrollo",
+    "Untitled.canvas"
   ]
 }

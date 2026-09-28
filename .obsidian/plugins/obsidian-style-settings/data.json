@@ -40,5 +40,6 @@
   "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-dark": false,
   "anuppuccin-theme-settings@@anp-custom-vault-toggle": false,
   "anuppuccin-theme-settings@@anp-file-icons": false,
-  "anuppuccin-theme-settings@@ctp-custom-overlay2@@dark": "#FF75B5"
+  "anuppuccin-theme-settings@@ctp-custom-overlay2@@dark": "#FF75B5",
+  "primary-theme@@colorful-folders_text": false
 }
