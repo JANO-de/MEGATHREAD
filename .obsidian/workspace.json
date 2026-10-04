@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "c4531ec4f40c5049",
+            "type": "leaf",
+            "state": {
+              "type": "hearth-home-view",
+              "state": {},
+              "icon": "hearth-crystal-themed",
+              "title": "Home"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,7 +226,7 @@
       "insert-image-plus:Insert Image Plus: Insert image": false
     }
   },
-  "active": "22a770bbf175760d",
+  "active": "c4531ec4f40c5049",
   "lastOpenFiles": [
     "Untitled.md",
     "02.Areas/Programacion/DAM/PROG/B1 - Programacion/UD5 - Programacion Orientada a Objetos (POO).md",
